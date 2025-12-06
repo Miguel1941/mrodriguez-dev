@@ -7,7 +7,7 @@ Soy estudiante de ingeniería en sistemas y actualmente estoy construyendo mis b
 
 ## 🌟 Sobre mí
 - 🎓 Estudiante de ingeniería en sistemas (faltando un semestre para iniciar prácticas)
-- 🔭 Actualmente trabajando en proyectos personales para fortalecer mi portafolio
+- 🔭 Desarrollando proyectos para fortalecer mi portafolio profesional
 - 📚 Aprendiendo: Git, GitHub, Python, POO, estructuras de datos y desarrollo web
 - 🎯 Objetivo: Conseguir mi primera oportunidad como desarrollador junior en 2025
 
@@ -17,20 +17,35 @@ Soy estudiante de ingeniería en sistemas y actualmente estoy construyendo mis b
 - **Lenguajes:** Python, JavaScript (básico), SQL  
 - **Herramientas:** Git, GitHub, GitKraken, VS Code  
 - **Frameworks / Librerías:** Tkinter, Pandas, Matplotlib  
-- **Bases de Datos:** MySQL
+- **Bases de Datos:** MySQL  
+- **Web:** HTML, CSS
 
 ---
 
 ## 📌 Proyectos Destacados
 
+### 🌊 **HydroCycle — Sistema de Gestión de Agua**
+**Tecnologías:** HTML, CSS, MySQL  
+**Descripción:**  
+Proyecto web que simula un sistema para administrar información relacionada con el ciclo del agua, manejo de datos y consultas.  
+Incluye diseño de interfaz, conexión a base de datos MySQL y organización de información de manera eficiente.
+
+---
+
 ### 📁 **Gestor de Gastos (Python + Tkinter)**
-Aplicación de escritorio para administrar gastos, usar clases, manejar archivos y generar gráficas.
+Aplicación de escritorio para administrar gastos, usar clases, manejar archivos y generar gráficas con matplotlib.  
+Incluye GUI, POO básica y almacenamiento de datos.
+
+---
 
 ### 📈 **Gestor de Hábitos y Productividad**
-Registro de hábitos diarios, estadísticas y análisis de progreso.
+Sistema para registrar hábitos diarios y generar estadísticas con Python y pandas.  
+Hecho para mejorar la organización personal.
 
-### 📈 **Gestor de Hábitos y Productividad**
-Registro de hábitos diarios, estadísticas y análisis de progreso.
+---
+
+### 🌐 **Hello Git**
+Repositorio inicial para practicar Git, GitHub y control de versiones.
 
 > 👉 *Más proyectos próximamente…*
 
@@ -44,4 +59,5 @@ Registro de hábitos diarios, estadísticas y análisis de progreso.
 
 ## 🙌 Gracias por visitar mi perfil
 Si te interesa seguir mi progreso, ¡no dudes en dejar una estrella ⭐ en mis proyectos!
+
 
