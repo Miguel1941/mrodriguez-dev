@@ -1,12 +1,12 @@
 # 👋 Hola, soy Miguel Rodriguez
 
 ### 💻 Desarrollador en formación | Python | Web | Bases de Datos  
-Soy estudiante de ingeniería en sistemas y actualmente estoy construyendo mis bases como desarrollador. Me apasiona crear proyectos prácticos, aprender nuevas tecnologías y mejorar cada día.
+Soy estudiante de ingeniería de sofware y actualmente estoy construyendo mis bases como desarrollador. Me apasiona crear proyectos prácticos, aprender nuevas tecnologías y mejorar cada día.
 
 ---
 
 ## 🌟 Sobre mí
-- 🎓 Estudiante de ingeniería en sistemas (faltando un semestre para iniciar prácticas)
+- 🎓 Estudiante de ingeniería de sofware (faltando un semestre para iniciar prácticas)
 - 🔭 Desarrollando proyectos para fortalecer mi portafolio profesional
 - 📚 Aprendiendo: Git, GitHub, Python, POO, estructuras de datos y desarrollo web
 - 🎯 Objetivo: Conseguir mi primera oportunidad como desarrollador junior en 2025
