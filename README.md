@@ -1,63 +1,48 @@
-# 👋 Hola, soy Miguel Rodriguez
+# 👋 Hola, soy Miguel Rodríguez
 
-### 💻 Desarrollador en formación | Python | Web | Bases de Datos  
-Soy estudiante de ingeniería de sofware y actualmente estoy construyendo mis bases como desarrollador. Me apasiona crear proyectos prácticos, aprender nuevas tecnologías y mejorar cada día.
+### 💻 Desarrollador en formación | Python | Backend | Bases de Datos  
+Soy estudiante de **Ingeniería de Software** y actualmente estoy fortaleciendo mis bases como desarrollador a través de proyectos prácticos. 
 
 ---
 
 ## 🌟 Sobre mí
-- 🎓 Estudiante de ingeniería de sofware (faltando un semestre para iniciar prácticas)
-- 🔭 Desarrollando proyectos para fortalecer mi portafolio profesional
-- 📚 Aprendiendo: Git, GitHub, Python, POO, estructuras de datos y desarrollo web
-- 🎯 Objetivo: Conseguir mi primera oportunidad como desarrollador junior en 2025
+- 🎓 Estudiante de Ingeniería de Software
+- 🔭 Desarrollo proyectos personales para fortalecer mi portafolio
+- 📚 Aprendiendo constantemente: Python, Git, GitHub, POO, estructuras de datos y desarrollo web
+- 🎯 Objetivo: Obtener mi primera oportunidad como **Desarrollador Junior** en 2025
 
 ---
 
-## 🛠️ Tecnologías que uso
-- **Lenguajes:** Python, JavaScript (básico), SQL  
+## 🛠️ Tecnologías que utilizo
+
+- **Lenguajes:** Python, SQL, JavaScript
 - **Herramientas:** Git, GitHub, GitKraken, VS Code  
-- **Frameworks / Librerías:** Tkinter, Pandas, Matplotlib  
+- **Frameworks:** Tkinter, Pandas, Matplotlib  
 - **Bases de Datos:** MySQL  
-- **Web:** HTML, CSS
+- **Web:** HTML, CSS  
 
 ---
 
 ## 📌 Proyectos Destacados
 
-### 🌊 **HydroCycle — Sistema de Gestión de Agua**
+### 💰 **Gestor de Gastos (Python + MySQL)**
+**Tecnologías:** Python, MySQL, Git  
+**Descripción:**  
+
+Aplicación de consola desarrollada en Python para la gestión básica de gastos personales.
+El proyecto está estructurado siguiendo buenas prácticas de organización, separando la lógica de negocio, el acceso a datos y la ejecución por consola.
+
+---
+
+### 🌊 **HydroCycle — Sistema de Gestión del Agua**
 **Tecnologías:** HTML, CSS, MySQL  
 **Descripción:**  
-Proyecto web que simula un sistema para administrar información relacionada con el ciclo del agua, manejo de datos y consultas.  
-Incluye diseño de interfaz, conexión a base de datos MySQL y organización de información de manera eficiente.
+Proyecto web que simula un sistema para administrar información relacionada con el ciclo del agua.  
+Incluye diseño de interfaz, conexión a base de datos MySQL y consultas básicas.
 
 ---
 
-### 📁 **Gestor de Gastos (Python + Tkinter)**
-Aplicación de escritorio para administrar gastos, usar clases, manejar archivos y generar gráficas con matplotlib.  
-Incluye GUI, POO básica y almacenamiento de datos.
 
----
-
-### 📈 **Gestor de Hábitos y Productividad**
-Sistema para registrar hábitos diarios y generar estadísticas con Python y pandas.  
-Hecho para mejorar la organización personal.
-
----
-
-### 🌐 **Hello Git**
-Repositorio inicial para practicar Git, GitHub y control de versiones.
-
-> 👉 *Más proyectos próximamente…*
-
----
-
-## 📬 Contáctame
+## 📬 Contacto
 - ✉️ Email: **marodriguezre@outlook.com**  
-- 🌐 GitHub: **[@Miguel1941](https://github.com/Miguel1941)**
-
----
-
-## 🙌 Gracias por visitar mi perfil
-Si te interesa seguir mi progreso, ¡no dudes en dejar una estrella ⭐ en mis proyectos!
-
-
+- 🌐 GitHub: [@Miguel1941](https://github.com/Miguel1941)
