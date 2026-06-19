@@ -16,7 +16,7 @@ Soy estudiante de **Ingeniería de Software** y actualmente estoy fortaleciendo 
 
 - **Lenguajes:** Python, SQL, C++, php
 - **Herramientas:** Git, GitHub, GitKraken, VS Code  
-- **Frameworks:** Tkinter, Pandas, Matplotlib  
+- **Frameworks:** Tkinter, Pandas, Bootstrap  
 - **Bases de Datos:** MySQL, MongoDB 
 - **Web:** HTML, CSS  
 
