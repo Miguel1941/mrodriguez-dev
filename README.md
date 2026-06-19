@@ -22,7 +22,7 @@ Soy estudiante de **Ingeniería de Software** y actualmente estoy fortaleciendo 
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Proyectos
 
 ### 🌊 **HydroCycle — Sistema de Gestión del Agua**
 **Tecnologías:** HTML, CSS, MySQL  
