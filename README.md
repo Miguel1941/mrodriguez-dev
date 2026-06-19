@@ -9,36 +9,26 @@ Soy estudiante de **Ingeniería de Software** y actualmente estoy fortaleciendo 
 - 🎓 Estudiante de Ingeniería de Software
 - 🔭 Desarrollo proyectos personales para fortalecer mi portafolio
 - 📚 Aprendiendo constantemente: Python, Git, GitHub, POO, estructuras de datos y desarrollo web
-- 🎯 Objetivo: Obtener mi primera oportunidad como **Desarrollador Junior** en 2025
 
 ---
 
 ## 🛠️ Tecnologías que utilizo
 
-- **Lenguajes:** Python, SQL, JavaScript
+- **Lenguajes:** Python, SQL, C++, php
 - **Herramientas:** Git, GitHub, GitKraken, VS Code  
 - **Frameworks:** Tkinter, Pandas, Matplotlib  
-- **Bases de Datos:** MySQL  
+- **Bases de Datos:** MySQL, MongoDB 
 - **Web:** HTML, CSS  
 
 ---
 
 ## 📌 Proyectos Destacados
 
-### 💰 **Gestor de Gastos (Python + MySQL)**
-**Tecnologías:** Python, MySQL, Git  
-**Descripción:**  
-
-Aplicación de consola desarrollada en Python para la gestión básica de gastos personales.
-El proyecto está estructurado siguiendo buenas prácticas de organización, separando la lógica de negocio, el acceso a datos y la ejecución por consola.
-
----
-
 ### 🌊 **HydroCycle — Sistema de Gestión del Agua**
 **Tecnologías:** HTML, CSS, MySQL  
 **Descripción:**  
-Proyecto web que simula un sistema para administrar información relacionada con el ciclo del agua.  
-Incluye diseño de interfaz, conexión a base de datos MySQL y consultas básicas.
+Proyecto web desarrollado con PHP, MySQL, HTML, CSS y Bootstrap. 
+Incluye un formulario de contacto conectado a una base de datos, autenticación de administradores mediante login.
 
 ---
 
